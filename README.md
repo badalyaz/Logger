@@ -14,7 +14,7 @@ This decision helps to prioritize the most important and potentially critical lo
 **Steps**
 1. Clone this repository:
 ```
-git clone <repo - url>
+git clone <repo-url>
 ```
 2. Turn on 2-step verification in your sender account settings, and generate a password for the Python application (in the "Select app" window choose "Other" and enter Python as the app name). Replace the sender password with the generated one found in the `config.json` file.  
 3. cd to the logger folder and replace receivers and sender info in the config.json file.
@@ -25,5 +25,5 @@ logger = Logger(min_log_level=LogLevel.INFO)
 ```
 
 ## Improvement ideas
-* Use a database to store logs. 
-* Add queue to multiprocess threading structure
+* Use a database to store logs
+* Add queue to the multiprocess threading structure
