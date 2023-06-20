@@ -1,4 +1,5 @@
 # Custom Logging System
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="images/diagram.png" style='width:80%; background-color: white'>
